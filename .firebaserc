@@ -1,26 +1,26 @@
 {
   "projects": {
-    "default": "flagship-armada",
-    "development": "flagship-armada-development"
+    "default": "flagship-armada-jawilson",
+    "development": "flagship-armada-jawilson-dev"
   },
   "targets": {
-    "flagship-armada": {
+    "flagship-armada-jawilson": {
       "hosting": {
         "prod": [
-          "flagship-armada"
+          "flagship-armada-jawilson"
         ],
         "prod-cicd": [
-          "flagship-armada"
+          "flagship-armada-jawilson"
         ]
       }
     },
-    "flagship-armada-development": {
+    "flagship-armada-jawilson-dev": {
       "hosting": {
         "dev": [
-          "flagship-armada-development"
+          "flagship-armada-jawilson"
         ],
         "dev-cicd": [
-          "flagship-armada-development"
+          "flagship-armada-jawilson"
         ]
       }
     }

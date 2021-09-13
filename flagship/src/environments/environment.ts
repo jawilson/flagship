@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyAmVMMhoPnGOs-LLCCUozwQt3onJ-ltCdY",
-    authDomain: "flagship-armada-development.firebaseapp.com",
-    databaseURL: "https://flagship-armada-development.firebaseio.com",
-    projectId: "flagship-armada-development",
-    storageBucket: "",
-    messagingSenderId: "243520392824",
-    appId: "1:243520392824:web:648ab41c9e615fdb01e78d"
+    apiKey: "AIzaSyDfx9wkAVHI8FUraXtT1OJG2py8j6EZa4s",
+    authDomain: "flagship-armada-jawilson.firebaseapp.com",
+    projectId: "flagship-armada-jawilson",
+    storageBucket: "flagship-armada-jawilson.appspot.com",
+    messagingSenderId: "59594821233",
+    appId: "1:59594821233:web:f88c4ff26a8a93c360d5d0",
+    measurementId: "G-KR1YGV6YM1"
   }
 };
 
